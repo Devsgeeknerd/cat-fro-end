@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Estrutura básica de uma página HTML;
   * Elementos e tags essenciais (div, p, a, img, etc.);
   * Formulários e controle de entrada;
+  * Semática HTML.
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
