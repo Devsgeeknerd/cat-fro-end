@@ -20,6 +20,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Animações e transições;
   * Pré-processadores (Sass, LESS).
 
+* **JavaScript:** Linguagem de programação que permite a criação de conteúdo web dinâmico e interativo.
+
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
 <!-- Informações -->
