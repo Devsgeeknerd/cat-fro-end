@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Formulários e controle de entrada;
   * Semática HTML.
 
+* **CSS:** A linguagem de estilo usada para descrever a apresentação de um documento escrito em HTML.
+
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
 <!-- Informações -->
