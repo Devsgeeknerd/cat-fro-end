@@ -3,6 +3,10 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Front-end é essencial para qualquer desenvolvedor web, pois abrange desde a criação de interfaces visualmente atraentes até a implementação de funcionalidades interativas.
+
+Ao completar esta categoria, terá habilidades robustas em: Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
+
 <!-- Informações -->
 ## &#8505; Informações
 
