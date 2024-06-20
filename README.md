@@ -9,6 +9,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **HTML:** A linguagem de marcação padrão para criar páginas web.
   * Estrutura básica de uma página HTML;
+  * Elementos e tags essenciais (div, p, a, img, etc.);
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
