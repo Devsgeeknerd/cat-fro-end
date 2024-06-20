@@ -17,6 +17,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Seletores e propriedades básicas;
   * Layouts (flexbox, grid);
   * Responsividade e media queries;
+  * Animações e transições;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
