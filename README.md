@@ -23,6 +23,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **JavaScript:** Linguagem de programação que permite a criação de conteúdo web dinâmico e interativo.
   * Sintaxe básica e operadores;
   * Manipulação de DOM;
+  * Eventos e manipulação de eventos;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
