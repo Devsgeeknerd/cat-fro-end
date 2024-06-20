@@ -18,6 +18,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Layouts (flexbox, grid);
   * Responsividade e media queries;
   * Animações e transições;
+  * Pré-processadores (Sass, LESS).
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
