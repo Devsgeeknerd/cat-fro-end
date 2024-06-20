@@ -5,7 +5,11 @@
 
 A categoria Front-end é essencial para qualquer desenvolvedor web, pois abrange desde a criação de interfaces visualmente atraentes até a implementação de funcionalidades interativas.
 
-Ao completar esta categoria, terá habilidades robustas em: Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
+Ao completar esta categoria, terá habilidades robustas em:
+
+* **HTML:** A linguagem de marcação padrão para criar páginas web.
+
+Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
 <!-- Informações -->
 ## &#8505; Informações
