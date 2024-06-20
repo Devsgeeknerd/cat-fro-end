@@ -14,6 +14,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Semática HTML.
 
 * **CSS:** A linguagem de estilo usada para descrever a apresentação de um documento escrito em HTML.
+  * Seletores e propriedades básicas;
+  * Layouts (flexbox, grid);
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
