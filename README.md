@@ -43,6 +43,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Design Responsivo e UX/UI:** Técnicas e práticas para garantir que as aplicações funcionam bem em todos os dispositivos.
   * Princípios de design responsivo;
   * Mobile-first design;
+  * Frameworks CSS;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
