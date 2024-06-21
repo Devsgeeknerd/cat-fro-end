@@ -37,6 +37,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Ferramentas de Desenvolvimento e Versionamento:** Utilização de ferramentas para aumentar a produtividade e gerenciar o código.
   * Controle de versão;
   * Ferramentas de build;
+  * Linters e formatadores;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
