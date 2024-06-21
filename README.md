@@ -32,6 +32,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * jQuery (fundamentos, plugins);
   * React (componentes, state, props, hooks);
   * Vue.js (componentes, diretivas, vuex);
+  * Angular (componentes, serviços,injeção de dependência).
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
