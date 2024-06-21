@@ -30,6 +30,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Frameworks e Bibliotecas JavaScript:** Ferramentas que facilitam o desenvolvimento de aplicações web complexas.
   * jQuery (fundamentos, plugins);
+  * React (componentes, state, props, hooks);
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
