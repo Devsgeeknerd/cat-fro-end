@@ -35,6 +35,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Angular (componentes, serviços,injeção de dependência).
 
 * **Ferramentas de Desenvolvimento e Versionamento:** Utilização de ferramentas para aumentar a produtividade e gerenciar o código.
+  * Controle de versão;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
