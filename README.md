@@ -24,6 +24,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Sintaxe básica e operadores;
   * Manipulação de DOM;
   * Eventos e manipulação de eventos;
+  * Promises, async, await;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
