@@ -59,6 +59,9 @@ Além de ferramentas modernas que permitirão criar aplicações web responsivas
 >
 > * Prática Constante:
 >   * Codifique regularmente para reforçar o que aprendeu.
+>
+> * Projetos Práticos:
+>   * Crie projetos próprios para aplicar os conhecimentos em situações reais.
 
 <!-- Informações -->
 ## &#8505; Informações
