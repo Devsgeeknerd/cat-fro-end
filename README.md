@@ -50,6 +50,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * RESTful APIs;
   * JSON;
   * Authentication (OAuth, JWT);
+  * GraphQL (conceitos básicos e uso).
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
