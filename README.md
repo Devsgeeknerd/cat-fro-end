@@ -47,6 +47,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Acessibilidade web (WAI-ARIA, práticas de acessibilidade).
 
 * **API Integration:** Conectar aplicações front-end com serviços back-end usando APIs.
+  * RESTful APIs;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
