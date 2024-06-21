@@ -38,6 +38,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Controle de versão;
   * Ferramentas de build;
   * Linters e formatadores;
+  * Ferramentas de desenvolvimento (DevTools).
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
