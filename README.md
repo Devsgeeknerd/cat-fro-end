@@ -54,6 +54,12 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
+> [!IMPORTANT]\
+> **Dicas de Estudo:**
+>
+> * Prática Constante:
+>   * Codifique regularmente para reforçar o que aprendeu.
+
 <!-- Informações -->
 ## &#8505; Informações
 
