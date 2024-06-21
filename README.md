@@ -46,6 +46,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Frameworks CSS;
   * Acessibilidade web (WAI-ARIA, práticas de acessibilidade).
 
+* **API Integration:** Conectar aplicações front-end com serviços back-end usando APIs.
+
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
 <!-- Informações -->
