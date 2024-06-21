@@ -65,6 +65,9 @@ Além de ferramentas modernas que permitirão criar aplicações web responsivas
 >
 > * Colaboração:
 >   * Participe de projetos "open-source" e colabore com outros desenvolvedores.
+>
+> * Feedback e Revisão:
+>   * Busque feedback de outros desenvolvedores e revise constantemente seu código.
 
 <!-- Informações -->
 ## &#8505; Informações
