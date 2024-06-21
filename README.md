@@ -44,6 +44,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Princípios de design responsivo;
   * Mobile-first design;
   * Frameworks CSS;
+  * Acessibilidade web (WAI-ARIA, práticas de acessibilidade).
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
