@@ -48,6 +48,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **API Integration:** Conectar aplicações front-end com serviços back-end usando APIs.
   * RESTful APIs;
+  * JSON;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
