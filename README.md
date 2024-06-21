@@ -40,6 +40,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Linters e formatadores;
   * Ferramentas de desenvolvimento (DevTools).
 
+* **Design Responsivo e UX/UI:** Técnicas e práticas para garantir que as aplicações funcionam bem em todos os dispositivos.
+
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
 <!-- Informações -->
