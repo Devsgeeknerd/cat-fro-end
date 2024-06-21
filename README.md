@@ -28,7 +28,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ajax e fetch API;
   * ES6+ Features (let, const, arrow functions, modules, etc.);
 
-* **Frameworks e Bibliotecas JavaScript:**
+* **Frameworks e Bibliotecas JavaScript:** Ferramentas que facilitam o desenvolvimento de aplicações web complexas.
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
