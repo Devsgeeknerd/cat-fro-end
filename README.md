@@ -25,6 +25,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Manipulação de DOM;
   * Eventos e manipulação de eventos;
   * Promises, async, await;
+  * Ajax e fetch API;
 
 Além de ferramentas modernas que permitirão criar aplicações web responsivas, acessíveis e eficientes.
 
