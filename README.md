@@ -62,6 +62,9 @@ Além de ferramentas modernas que permitirão criar aplicações web responsivas
 >
 > * Projetos Práticos:
 >   * Crie projetos próprios para aplicar os conhecimentos em situações reais.
+>
+> * Colaboração:
+>   * Participe de projetos "open-source" e colabore com outros desenvolvedores.
 
 <!-- Informações -->
 ## &#8505; Informações
